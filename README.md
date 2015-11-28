@@ -1,2 +1,2 @@
 # TransformYourVoiceIOSapp
-Fun simple application for voice transformation
+Fun simple application for voice transformation on iOS
